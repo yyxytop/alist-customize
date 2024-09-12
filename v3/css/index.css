@@ -32,13 +32,13 @@ body::before {
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url(https://s3.yyxy.top/ganyu.png); /* 背景图片，可自行替换 */
+  background-image: url(https://random.june.ink); /* 背景图片，可自行替换 */
   z-index: 0;
 }
 
 @media screen and (max-width: 960px) {
   body::before {
-    background-image: url(https://s3.yyxy.top/ganyu.png); /* 竖屏背景图片，可自行替换 */
+    background-image: url(https://random.june.ink); /* 竖屏背景图片，可自行替换 */
   }
 }
 
